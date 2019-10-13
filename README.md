@@ -1,0 +1,2 @@
+# kernal_density_estimation
+使用Ep函数来进行核密度估计，最终生成一张二值检测图像
